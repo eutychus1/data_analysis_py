@@ -1,0 +1,6 @@
+
+Sales Summary Report
+---------------------
+Total Revenue: $10,374.86
+Best-Selling Product: Energy Drink
+Day with Highest Sales: 2024-01-01
